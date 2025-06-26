@@ -1,0 +1,43 @@
+# config made by,
+# ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓████████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░          
+# ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░          
+# ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░          
+# ░▒▓████████▓▒░ ░▒▓██████▓▒░    ░▒▓██████▓▒░  ░▒▓███████▓▒░  ░▒▓█▓▒░          
+# ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░          
+# ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓██▓▒░ 
+# ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓████████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓██▓▒░ 
+#                                                                             
+                                                                             
+
+[general]
+ live_config_reload = true
+ ipc_socket = true
+
+[font]
+    normal.family = "JetBrainsMono Nerd Font" # Choose your preferred font
+    size = 11.0
+    offset = { x = 0, y = 0 }
+
+[window]
+    opacity = 0.9  # Make the window slightly transparent
+    padding.x = 10
+    padding.y = 10
+    dimensions = { columns = 120, lines = 40 }
+    dynamic_title = false
+    title = " "
+    decorations = "Full"
+    position = "None"
+    blur = false
+
+[selection]
+ save_to_clipboard = true
+
+[cursor]
+ style = "Underline"
+ unfocused_hollow = false
+
+[mouse]
+ hide_when_typing = true
+ bindings = [
+ { mouse = "Right", action = "Paste" },   
+ ]
