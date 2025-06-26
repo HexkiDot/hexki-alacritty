@@ -1,6 +1,11 @@
 # hexki-alacritty
 This is my personal Alacritty Terminal config, and i guess bash config.
 
+things you need to install;
+``alacritty``
+``jetbrains-mono-nerd font``
+``ChrisTitus mybash`` (optinal)
+
 My bash is by Chris Titus Tech's mybash project. 
 https://github.com/ChrisTitusTech/mybash
 
