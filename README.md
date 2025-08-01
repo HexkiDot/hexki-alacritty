@@ -18,4 +18,5 @@ for example using Arch Linux;
 then download the alacritty.toml file and place it in your alacritty config folder. for example, in your home directory,``/.config/alacritty/``.
 after that you SHOULD be good to go.
 
-![hexkialacritty](https://github.com/user-attachments/assets/119fbff8-ce34-4ea8-9ab7-1d9166a982bd)
+<img width="1920" height="1080" alt="2025-08-01-003843_hyprshot" src="https://github.com/user-attachments/assets/010dcb59-9cdb-4feb-8e3e-76e4f4470347" />
+
