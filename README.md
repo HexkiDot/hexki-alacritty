@@ -6,7 +6,7 @@ things you need to install;
 ``jetbrains-mono-nerd font``,
 ``ChrisTitus mybash`` (optinal)
 
-My bash is by Chris Titus Tech's mybash project. 
+(I NOT LONGER USE THIS)  My bash is by Chris Titus Tech's mybash project. 
 https://github.com/ChrisTitusTech/mybash
 
 Now to my terminal. 
